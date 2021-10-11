@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# Primeiros Passos com React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Sobre
+
+O objetivo deste projeto é aprender a utilizar as funcionalidades básicas do React.
+Foram desenvolvidos os seguintes componentes:
+- **ClickMe**
+- **Footer**
+- **Header** 
+- **Main**
+- **Timer**
+- **ListaUser**
+
+Somente o ListaUser não tem um style próprio, pois foi utilizado apenas o consumo da API https://jsonplaceholder.typicode.com/users
+
+
 
 ## Available Scripts
 
